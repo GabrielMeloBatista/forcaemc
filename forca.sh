@@ -1,2 +1,2 @@
-make forca && clear && ./forca
-rm ./forca
+# make forca && clear && ./forca
+# rm ./forca
